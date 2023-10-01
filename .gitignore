@@ -3,3 +3,9 @@
 
 # ignore pycache files
 **/*pycache*/
+
+# ignore model_data in car detection assignment (Week3, course 4, CNN)
+**/model_data/
+
+# ignore huge data in image segmentatin unet assignment (Week3, course 4, CNN)
+**/Cam**/
