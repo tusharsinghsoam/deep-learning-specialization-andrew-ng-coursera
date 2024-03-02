@@ -9,3 +9,6 @@
 
 # ignore huge data in image segmentatin unet assignment (Week3, course 4, CNN)
 **/Cam**/
+
+# ignore glove word embeddings in word_vector_representation assignment(Week 2, course 5, Sequence Models)
+**/glove*txt
